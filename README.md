@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi ??, I'm Apurva Chavan</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurva1205&label=Profile%20views&color=0e75b6&style=flat" alt="apurva1205" /> </p>
 
