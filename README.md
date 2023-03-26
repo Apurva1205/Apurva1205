@@ -1,7 +1,7 @@
 
 ![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
 
-<h1 align="center">Hi ??, I'm Apurva Chavan</h1>
+<h1 align="center">Hi, I'm Apurva Chavan</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurva1205" alt="apurva1205" /></a> </p>
 
-- ?? I’m currently learning **Data Science,ML,R,SQL,NLP**
+-  I’m currently learning **Data Science,ML,R,SQL,NLP**
 
-- ?? Ask me about **Python,Data Science,NLP**
+-  Ask me about **Python,Data Science,NLP**
 
-- ?? How to reach me **apurvachavan125@gmail.com**
+-  How to reach me **apurvachavan125@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
