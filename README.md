@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurva1205" alt="apurva1205" /></a> </p>
 
-- ?? I’m currently working on **Fine-Tune BERT**
-
 - ?? I’m currently learning **Data Science,ML,R,SQL,NLP**
 
 - ?? Ask me about **Python,Data Science,NLP**
