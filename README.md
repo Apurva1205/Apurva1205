@@ -1,5 +1,6 @@
 
-![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
+![MasterHead](https://media4.giphy.com/headers/abitan/GkMqEemC1Sfm.gif)
+
 
 <h1 align="center">Hi, I'm Apurva Chavan</h1>
 <h3 align="center">A passionate Python developer from India</h3>
